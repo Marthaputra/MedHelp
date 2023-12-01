@@ -10,10 +10,15 @@
     "test": "jest"
   },
   "dependencies": {
+<<<<<<< HEAD
     "iconsax-react-native": "^0.0.8",
     "react": "18.2.0",
     "react-native": "0.72.6",
     "react-native-svg": "^13.14.0"
+=======
+    "react": "18.2.0",
+    "react-native": "0.72.6"
+>>>>>>> bc103c9dd433425717519fb80fc7badd4396f7ae
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
